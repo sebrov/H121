@@ -1,0 +1,154 @@
+.navbar {
+  background-color: #ff7171;
+}
+
+.navbar-brand {
+  color: white;
+  font-weight: bolder;
+}
+
+.navbar-brand:hover {
+  color: black;
+  font-weight: bolder;
+}
+
+.nav a {
+  color: white;
+  font-weight: bolder;
+}
+
+.nav a:hover {
+  color: black;
+  font-weight: bolder;
+}
+
+#socicon {
+  height: 48px;
+  width: 48px;
+}
+
+#page {
+  position: grid;
+  min-height: 100%;
+  background-color: #ffd5e5;
+}
+
+#container {
+  min-height: 95vh;
+}
+
+.text {
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  position: relative;
+  padding-top: 10%;
+}
+
+h1 {
+  font-family: "Secular One";
+  font-weight: bold;
+  font-size: 160px;
+}
+
+.material-icons {
+  color: white;
+}
+
+.material-icons:hover {
+  color: black;
+}
+
+#me {
+  background-image: url(./h.jpg);
+  background-size: contain;
+  background-position: bottom 0px right 0px;
+  background-repeat: no-repeat;
+  height: 100vh;
+  max-width: 100vw;
+}
+
+body {
+  margin: 0 auto;
+}
+
+.accordion-button.collapsed {
+  font-weight: bolder;
+}
+
+label {
+  font-weight: bold;
+}
+
+#tot {
+  font-weight: bolder;
+}
+
+#form {
+  text-align: center;
+  margin: auto;
+  width: 300px;
+  padding-top: 5%;
+  min-height: 60vh;
+}
+
+#login {
+  padding-top: 5%;
+  text-align: center;
+  width: 80%;
+  margin: auto;
+}
+
+#form1 {
+  text-align: center;
+  margin: auto;
+  width: 300px;
+  padding-bottom: 2.5%;
+  max-height: 60vh;
+}
+
+#order {
+  padding-top: 5%;
+  text-align: center;
+  width: 80%;
+  margin: auto;
+}
+
+#footer {
+  position: relative;
+  display: flex;
+  margin-bottom: 0px;
+  width: 100%;
+  height: 5%;
+  background-color: #ffedd3;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#foot {
+  text-align: center;
+  margin: 0 auto;
+  color: black;
+}
+
+.card-img-top {
+  height: 40%;
+}
+
+.card {
+  border:0px;
+}
+
+.home {
+  border:0px;
+  border-color: #ffd5e5;
+  background-color: #ffd5e5;
+}
+
+#extra {
+  display: none;
+}
+
+#empty_basket {
+  font-weight:  bolder;
+}
