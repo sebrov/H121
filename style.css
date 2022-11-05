@@ -41,8 +41,9 @@
   font-weight: bold;
   color: black;
   text-align: left;
-  position: relative;
+  position: block;
   padding-top: 10%;
+  max-width: 50%;
 }
 
 h1 {
